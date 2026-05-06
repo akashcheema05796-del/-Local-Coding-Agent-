@@ -1,0 +1,6 @@
+{
+  "name": "Gemma Agent V1",
+  "description": "A high-performance terminal-based coding assistant powered by Gemini. Focused on local-style execution simulation and rapid prototyping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered code generation", "Terminal simulation", "Workspace management"]
+}
